@@ -1,2 +1,3 @@
-# dist20demo
-DIST.20用のデモ用リポジトリ
+# DIST.20 DEMO
+
+demo repository for DIST.20
